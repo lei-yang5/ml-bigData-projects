@@ -11,7 +11,6 @@ Lei Yang's hand-on projects
                 –	Understanding data structure, replicate computational environment, compare performance
                 –	Model reproduction
                 –	New data collection and annotation, assess new data annotator agreement,transform data format, evaluate new data, compare the results
-  **Git**:https://github.com/lei-yang5/COMP8240project
         
 3.**Name**: COVID-19 Research Paper Abstract Text Analysis and Visualization.   
   **Briefing**: Analyse metadata of paper abstract text(over 700,000 instances) for initial exploration of clusterings, topics and representative words using Natural Language Toolkit and visualization 
